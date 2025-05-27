@@ -1,4 +1,5 @@
 🎬 CineSuggest:-  A content based Movie Recommender System
+------------------------------------------------------------
 This project is a content-based movie recommendation system that utilizes cosine similarity to suggest movies similar to a user's selection. Leveraging the TMDB 5000 Movie Dataset, it processes features such as genres, keywords, cast, and crew to compute similarity scores between movies.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔧 Key Features:-
