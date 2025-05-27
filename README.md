@@ -14,3 +14,6 @@ This project is a content-based movie recommendation system that utilizes cosine
 
 📁 Dataset:-
 * The system uses the TMDB 5000 Movie Dataset, which includes metadata for over 5,000 movies, encompassing details like cast, crew, genres, and keywords.
+
+* ![image](https://github.com/user-attachments/assets/bac4658a-68cc-4c16-a5b4-9962ccf4d5be)
+
